@@ -1,4 +1,7 @@
-## Hi there 👋
+## Hi, I'm Fudgey 👋
+
+I'm interested in Crypto, NFTs and the .NET ecosystem. Check out my repos, they may be of use to you!
+
 
 <!--
 **fudgebucket27/fudgebucket27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
