@@ -1,6 +1,6 @@
 ## Hi, I'm Fudgey 👋
 
-I'm interested in Crypto, NFTs and the .NET ecosystem. Check out my repos, they may be of use to you!
+Check out my repos, they may be of use to you!
 
 
 <!--
